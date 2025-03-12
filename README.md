@@ -1,15 +1,3 @@
-### Hi there 👋
+## Aidan Kelly
 
-<!--
-**AidanKelly50/AidanKelly50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-My name is Aidan Kelly. I am a Computer Science student at Northeastern University.
-
-- 🔭 I’m currently working on a BlackJack Game made with Javascript, HTML, and CSS
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I play hockey.
--->
+2nd Year Computer Science and Business Student at Northeastern University.
